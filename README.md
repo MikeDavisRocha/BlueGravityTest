@@ -38,4 +38,4 @@ https://assetstore.unity.com/packages/2d/characters/mighty-heroes-rogue-2d-fanta
 * https://mikedavisrocha.itch.io/lotus-legends
 
 # Documents
-* 
+* https://github.com/MikeDavisRocha/BlueGravityTest/blob/master/Lotus%20Legends.pdf
